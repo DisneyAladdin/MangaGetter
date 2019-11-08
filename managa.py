@@ -29,8 +29,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 
-LOGIN_ID = 'lovedisneyaladdin@yahoo.co.jp'
-LOGIN_PASSWORD = 'shuto0723'
+LOGIN_ID = '***************'
+LOGIN_PASSWORD = '*********'
 LOGIN_URL = 'https://manga-zero.com/login'
 TARGET_URL = 'https://manga-zero.com/product/3769'
 
