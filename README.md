@@ -14,4 +14,10 @@
 ・時刻の取得とエピソード取得の判定
 
 
-# 
+# License
+CopyRight (c) 2019 Kozasa Mizuki, Shuto Kawabata
+
+Released under the MIT licence
+
+https://opensource.org/licenses/MIT
+
