@@ -202,7 +202,7 @@ def isAlreadyHave(episodeTitle):
 
         
 
-# Main部分（各関数を呼び出す）
+# Main部分（各関数を呼び出す．まだ未完成部分）
 b = webdriver.Chrome('./chromedriver')
 login()
 sleep(2)
