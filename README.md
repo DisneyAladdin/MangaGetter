@@ -1,5 +1,8 @@
 # managazero
 
+<img src="https://github.com/shutokawabata0723/managazero/blob/master/ticket.png" width=700>
+
+
 # 機能
 
 ・ログインを行いチケットを取得
